@@ -1,0 +1,31 @@
+affiliateId: 
+key: 
+baseUrl: 
+origin_country_codes: ['AFG','AF','ALA','AX','ALB','AL','DZA','DZ','ASM','AS','AND','AD','AGO','AO','AIA','AI','ATG',
+                       'AG','ARG','AR','ARM','AM','ABW','AW','AUS','AU','AUT','AT','AZE','AZ','BHS','BS','BHR','BH',
+                       'BGD','BD','BRB','BB','BLR','BY','BEL','BE','BLZ','BZ','BEN','BJ','BMU','BM','BTN','BT','BOL',
+                       'BO','BES','BQ','BIH','BA','BWA','BW','BRA','BR','IOT','IO','UMI','UM','VGB','VG','VIR','VI',
+                       'BRN','BN','BGR','BG','BFA','BF','BDI','BI','KHM','KH','CMR','CM','CAN','CA','CPV','CV','CYM',
+                       'KY','CAF','CF']
+dest_country_codes: ['TCD','TD','CHL','CL','CHN','CN','CXR','CX','CCK','CC','COL','CO','COM','KM','COG','CG','COD',
+                     'CD','COK','CK','CRI','CR','HRV','HR','CUB','CU','CUW','CW','CYP','CY','GASC','GASC','NX','NX',
+                     'CZE','CZ','DNK','DK','DJI','DJ','DMA','DM','DOM','DO','ECU','EC','EGY','EG','SLV','SV','GNQ',
+                     'GQ','ERI','ER','EST','EE','ETH','ET','FLK','FK','FRO','FO','FJI','FJ','FIN','FI','FRA','FR',
+                     'GUF','GF','PYF','PF','GAB','GA','GMB','GM','GEO','GE','DEU','DE','GHA','GH','GIB','GI','GRC',
+                     'GR','GRL','GL']
+origin_airport_code: ['AAR','ABD','AEH','ABZ','ABR','ABJ','ABI','AUH','ABV','AUE','ABS','ACA','ACC','ADA','ADD','ADL',
+                      'ADE','ADF','AER','AJY','AGA','SUM','AGZ','BQN','AGU','AMD','AYU','AJA','AXT','CAK','AKT','AAN',
+                      'AAC','ALH','ABY','ALB','LBI','AAL','ABQ','ABX','ACI','ALP','AES','ALJ','HBH','ALY','ESF','FJR',
+                      'AHO','ALG','AHU','ALC','ASP','ADY','ABE','ALA','LEI','ALF','AAT','ACH','AOO','AXS','ASJ','AMA',
+                      'BXS','BOS','BYK','BOJ','BOH','ZBO','BZN','BFD','BRD','BMP','BSB','BTS','BZV','BRE','VBS','BES',
+                      'CNS','CAI','CJC','CCU','YYC','CLO','CCJ','CLY','YCB','CBG','CAL','CGR','CBR','CUN','CEQ','CIW',
+                      'CPT','CCS','CWL','CLD','CVQ','CRF','CSN','CAS','CMN','LRM','CSI','CPR','CST','CTG','SLU','CTA',
+                      'CAY','CBU','CEB','CDC','CID','CED','CES','KHV','CMF','CMI','IXC','CGQ','CHQ','CHG','CHS','CRW',
+                      'CLT','CHO','CXT']
+dest_airport_code: ['CHA','CTU','MAA','CYS','CNX','QCB','MDW','ORD','CHI','CZA','CIC','CUU','JKH','CIP','KIV','HTA',
+                    'CTS','CJL','CGP','CKG','CHC','CCZ','YYQ','CFG','CVG','CME','CGU','CJS','CEN','CVM','CKB','CMQ',
+                    'CFE','BKL','CLE','CBB','COK','COD','KCC','CFS','CJB','CLQ','CLL','KCE','CGN','CMB','COS','CAE',
+                    'EMD','ENF','EBB','ERF','ERI','EVN','ERC','ERZ','EBJ','ESC','EPR','EUG','ACV','EVV','EVE','EXT',
+                    'FAI','FIE','LYP','FAR','FMN','FAO','FAE','FYV','FAY','FEZ','FSC','FLG','YFO','FNT','FLR','FLO',
+                    'FLN','FRO','YFA','FOR','FDF','FOD','FHU','FLL','YMM','FMY','RSW','FRI','YSM','FSM','YXJ','VPS',
+                    'FWA','DFW','FOU','FRW','FRA','HHN','FKL','YFC','FPO','FNA','FRJ','FAT','FDH','FUE']

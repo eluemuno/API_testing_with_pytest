@@ -1,0 +1,29 @@
+{
+    "tripsData": {
+        "data": {
+            "type": "TRIP",
+            "attributes": {
+                "category": "ONE_WAY_TRIP",
+                "segments": [
+                    {
+                        "segmentType": "OUTBOUND",
+                        "origin": {
+                            "countryCode": "CAN"
+                        },
+                        "destination": {
+                            "countryCode": "NGA"
+                        },
+                        "travelMode": "AIR",
+                        "departureDate": "2022-02-22",
+                        "departureTime": "12:59",
+                        "arrivalDate": "2021-02-22",
+                        "arrivalTime": "12:59"
+                    }
+                ]
+            }
+        }
+    },
+    "headers": {
+    "Content-Type": "application/json"
+    }
+}
